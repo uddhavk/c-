@@ -7,8 +7,8 @@ int sum(int a, int b=1){
 }
 
 int diff(int a, int b){
-    int ok = a - b;
-    return ok;
+    int diff = a - b;
+    return diff;
 }
 
 int main(){
